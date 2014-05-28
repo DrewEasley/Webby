@@ -1,0 +1,5 @@
+c:\projects\xml\Webby\Webby\bin\Release\Transformations\UpdateConnectionStrings.xslt
+c:\projects\xml\Webby\Webby\bin\Release\Webby.exe
+c:\projects\xml\Webby\Webby\bin\Release\Webby.pdb
+c:\projects\xml\Webby\Webby\obj\Release\Webby.exe
+c:\projects\xml\Webby\Webby\obj\Release\Webby.pdb

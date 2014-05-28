@@ -1,0 +1,6 @@
+c:\projects\xml\Webby\Webby\bin\Debug\Transformations\UpdateConnectionStrings.xslt
+c:\projects\xml\Webby\Webby\bin\Debug\Webby.exe
+c:\projects\xml\Webby\Webby\bin\Debug\Webby.pdb
+c:\projects\xml\Webby\Webby\obj\Debug\Webby.csprojResolveAssemblyReference.cache
+c:\projects\xml\Webby\Webby\obj\Debug\Webby.exe
+c:\projects\xml\Webby\Webby\obj\Debug\Webby.pdb
