@@ -3,3 +3,9 @@ c:\projects\xml\Webby\Webby\bin\Release\Webby.exe
 c:\projects\xml\Webby\Webby\bin\Release\Webby.pdb
 c:\projects\xml\Webby\Webby\obj\Release\Webby.exe
 c:\projects\xml\Webby\Webby\obj\Release\Webby.pdb
+C:\Users\deasley\Documents\GitHub\Webby\Webby\obj\Release\Webby.exe
+C:\Users\deasley\Documents\GitHub\Webby\Webby\obj\Release\Webby.pdb
+C:\Users\deasley\Documents\GitHub\Webby\Webby\obj\Release\Webby.csprojResolveAssemblyReference.cache
+C:\Users\deasley\Documents\GitHub\Webby\Webby\bin\Release\Transformations\UpdateConnectionStrings.xslt
+C:\Users\deasley\Documents\GitHub\Webby\Webby\bin\Release\Webby.exe
+C:\Users\deasley\Documents\GitHub\Webby\Webby\bin\Release\Webby.pdb
